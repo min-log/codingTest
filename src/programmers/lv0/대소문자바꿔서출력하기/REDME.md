@@ -23,3 +23,13 @@ aBcDeFg
 ```java
 AbCdEfG
 ```
+
+
+### 풀이 
+
+- 문자열을 받아 char 배열로 변경 : `char[] chList =  str.toCharArray();`
+- `for`문 으로 배열을 확인
+- 내부에서 `if`문으로 `Character.isUpperCase()` 메서드로 각 문자가 대문자인지 비교 
+- 대문자가 맞다면 `Character.toLowerCase()`를 사용하여 소문자로 변경
+- 대문자가 아니라면 (소문자) `Character.toUpperCase()`를 사용하여 대문자로 변경
+

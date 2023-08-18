@@ -13,14 +13,20 @@ public class Solution {
         String str = sc.next();
         char[] chList =  str.toCharArray();
         
-        for(char i : chList) {
-        	if(Character.isUpperCase(i)) {
+        for(int i= 0; i<chList.length;i++) {
+        	
+        	if(Character.isUpperCase(chList[i])) {
+        		chList[i] = Character.toLowerCase(chList[i]);
         		
+        	}else {
+        		chList[i] = Character.toUpperCase(chList[i]);
         	}
         }
+        System.out.println(chList);
         
         
-        Arrays.sort(chList);
+        
+ 
         
     }
 }

@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f5b16ed-47ea-4e06-92c2-be1c611cabb9" name="Changes" comment="" />
+    <list default="true" id="1f5b16ed-47ea-4e06-92c2-be1c611cabb9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/jungolEx/Ex02.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jungolEx/Ex02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jungolEx/Ex03.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jungolEx/Ex03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jungolEx/Ex07.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jungolEx/Ex07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jungolEx/Ex10.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jungolEx/Ex10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jungolEx/array/arrayEx03.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jungolEx/array/arrayEx03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jungolEx/array/arrayEx04.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jungolEx/array/arrayEx04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jungolEx/array/arrayEx05.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jungolEx/array/arrayEx05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/jungolEx/array/arrayEx06.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/jungolEx/array/arrayEx06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/programmers/lv0/대소문자바꿔서출력하기/REDME.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/programmers/lv0/대소문자바꿔서출력하기/REDME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/programmers/lv0/대소문자바꿔서출력하기/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/programmers/lv0/대소문자바꿔서출력하기/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmers/lv0/대소문자바꿔서출력하기/REDME.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lv0/대소문자바꿔서출력하기/REDME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmers/lv0/대소문자바꿔서출력하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/lv0/대소문자바꿔서출력하기/Solution.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2U3BEv99QWc5wqODUFPJsGS1J2V" />
   <component name="ProjectViewState">
@@ -37,6 +53,7 @@
       <updated>1692158276093</updated>
       <workItem from="1692158277678" duration="24000" />
       <workItem from="1692158328314" duration="33000" />
+      <workItem from="1692277706633" duration="5000" />
     </task>
     <servers />
   </component>
